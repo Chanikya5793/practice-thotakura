@@ -15,3 +15,11 @@ Set in 1980s **Hawkins**, Stranger Things blends nostalgic small-town vibes with
 1. Millie Bobby Brown
 2. David Harbour
 3. Winona Ryder
+
+### Other Shows
+
+- Dark
+- Wednesday
+- Money Heist
+
+
