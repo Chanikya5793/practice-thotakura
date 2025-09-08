@@ -36,3 +36,14 @@ Below is a list of four people I’d love to meet someday, with a brief reason a
 | Marie Curie | Groundbreaking research in radioactivity | 1867-11-07 | 1934-07-04 |
 | Elon Musk | Innovation in space and EVs | 1971-06-28 | — |
 | Kalpana Chawla | Inspiration in aerospace | 1962-03-17 | 2003-02-01 |
+
+
+---
+
+## Favorite Quotes
+
+> Dreams are not what you see in sleep, dreams are the things which do not let you sleep.
+>
+> Science is a beautiful gift to humanity; we should not distort it.
+>
+> — *A. P. J. Abdul Kalam*
