@@ -47,3 +47,25 @@ Below is a list of four people I’d love to meet someday, with a brief reason a
 > Science is a beautiful gift to humanity; we should not distort it.
 >
 > — *A. P. J. Abdul Kalam*
+
+---
+
+## Code Snippet
+
+##### Description:
+###### How to Create an empty file using Node.js
+This example Node.js code creates an empty file using the open method
+```
+
+const fileSystem = require('fs');
+
+const createFile = fileName => {
+	fileSystem.open(fileName, 'w', error => {
+		if (error) throw error;
+		console.log('Saved!');
+	});
+}; 
+
+```
+
+Quick link: [View the source snippet](https://pieces.app/collections/nodejs)
